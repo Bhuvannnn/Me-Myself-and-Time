@@ -79,19 +79,19 @@ We have implemented extensive analytics to track player behavior and game perfor
 
 ## Screenshots
 
-![Matrices](Matrices/Twist_&_Mechanics_Matrix)
+![Matrices](Matrices/Twist_&_Mechanics_Matrix.png)
 
-![Mechanic Interaction Matrix](Matrices/Mechanic_Interaction_Matrix)
+![Mechanic Interaction Matrix](Matrices/Mechanic_Interaction_Matrix.png)
 
-![Mechanic Challenge Matrix](Matrices/Mechanic_Challenge_Matrix)
+![Mechanic Challenge Matrix](Matrices/Mechanic_Challenge_Matrix.png)
 
 [Mechanic Challenge Matrix spreadsheets](https://docs.google.com/spreadsheets/d/1n1cbXQwXf2db0UWdz5ObMwByCyKDhTjp0O1Vkzg5oFU/edit?gid=0#gid=0)
 
-![UI Flowchart](Flowchart/UI_Flowchart)
+![UI Flowchart](Flowchart/UI_Flowchart.png)
 
-![Core Gameplay Loop](Loop/Core_Gameplay_Loop)
+![Core Gameplay Loop](Loop/Core_Gameplay_Loop.png)
 
-![Dashboard](Dashboard/Full_view)
+![Dashboard](Dashboard/Full_view.png)
 
 
 ## Documentation
