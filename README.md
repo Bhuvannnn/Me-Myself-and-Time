@@ -1,35 +1,35 @@
 # Me, Myself and Time (Unity 2d Game)
 
-This is a semester long project game for my master's class CSCI 526 Me, Myself and Time at University of Southern California (USC) under Professor Scott Easley.
+This is a semester long project (game) for my graduate level class "CSCI 526 Advance Mobile Devices and Game Consoles" Me, Myself and Time at University of Southern California (USC) under Professor Scott Easley.
 
-## Appendix
+# Appendix
 
-## Introduction
+### Introduction
 **Me, Myself, and Time** is a 2D platformer game developed over a semester-long and a 6-month project. The game features a unique time-traveling mechanic that allows players to use their past selves to navigate through challenging levels filled with obstacles, collectibles, and strategic challenges.
 
-## Features
+### Features
 - **Time-traveling mechanic:** Use your past self to assist in navigating through levels.
 - **Challenging levels:** Increasing difficulty with new objects and obstacles such as spikes, pits, moving platforms, and disappearing platforms.
 - **Collectibles:** Special abilities like dash and time freeze.
 - **Star rating system:** Based on the number of time travels used.
 - **Comprehensive analytics:** Detailed game analytics including heatmaps and Sankey diagrams.
 
-## Core Mechanics
-### Time Travel
+### Core Mechanics
+#### Time Travel
 - The main player can travel back in time and see the actions of their past self.
 - Limited to 3 time travels per level to increase the challenge.
 - Every move must be strategically planned as more time travels result in fewer stars.
 
-### Obstacles and Challenges
+#### Obstacles and Challenges
 - **Spikes:** Immediate death upon contact.
 - **Pits:** Falling into a pit results in immediate death and level restart.
 - **Moving and disappearing platforms:** Require precise timing and coordination with past self.
 
-### Collectibles
+#### Collectibles
 - **Dash Collectible:** Allows the player to dash to reach otherwise unreachable places.
 - **Time Freeze Collectible:** Freezes everything except the player and their future self, aiding in avoiding obstacles and completing the level.
 
-### Star System
+#### Star System
 - Stars are awarded based on the number of time travels used.
 - Visible star indicators help players understand when they start losing stars.
 
