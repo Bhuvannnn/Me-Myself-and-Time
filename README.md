@@ -1,6 +1,6 @@
 # Me, Myself and Time (Unity 2d Game)
 
-This is a semester long project (game) for my graduate level class "CSCI 526 Advance Mobile Devices and Game Consoles" Me, Myself and Time at University of Southern California (USC) under Professor Scott Easley.
+This is a semester long project (game) for my graduate level class "CSCI 526 Advance Mobile Devices and Game Consoles" Me, Myself and Time at University of Southern California (USC) under Professor Scott Easley. You can play the game by clicking [here](https://bhuvannnn.github.io/Me-Myself-and-Time/WebGL%20Builds/Gold%20Build/)
 
 # Appendix
 
