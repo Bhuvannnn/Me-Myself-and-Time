@@ -75,7 +75,7 @@ We have implemented extensive analytics to track player behavior and game perfor
 - Heatmaps and Sankey diagrams to visualize player paths and behaviors.
 
 ### Tableau Dashboard
-- [View the live Tableau dashboard](https://public.tableau.com/app/profile/dattateja.reddy.anakala2291/viz/GameAnalytics_17096239822570/Dashboard1)
+- [View the live Tableau dashboard](https://public.tableau.com/app/profile/bhuvan.shah/viz/GameAnalytics_17298031725370/Dashboard1)
 
 ## Screenshots
 
